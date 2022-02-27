@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="Kr6oOu2SX?t5mogm=n-V" x="274" y="-114"><statement name="HANDLER"><block type="device_print_message" id="x3X?^w!`GQB,QcWw{8Yc"><value name="text"><shadow type="text" id="Qw)o(zK=$xaM%P#GJ6!c"><field name="TEXT">LOL</field></shadow></value><next><block type="device_show_leds" id="r9srz2LV)m23}e%6Xt=V"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id=")IEx!ef/h}pcG(#qwXAv"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="/=#b}]_t113J$%-lsuBF"><value name="pause"><shadow type="timePicker" id="vDpO9pU*86vZ+@,R|I$C"><field name="ms">100</field></shadow></value><next><block type="device_show_number" id="H`Y4]q-%bm5-%7v!opET"><value name="number"><shadow type="math_number" id="bDBPdoAplaAz3GI?GN~5"><field name="NUM">100</field></shadow></value><next><block type="basic_show_icon" id="zh6[zIAH;^)cr(bbNFV_"><field name="i">IconNames.Target</field><next><block type="basic_show_icon" id="aPQ7D(y:er`#.fg#S`BS"><field name="i">IconNames.Butterfly</field><next><block type="device_show_leds" id="E=Z*9{3l*Mw)_eyBSv%K"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="basic_show_icon" id="*4)%wo*JH.U5Gdb7z5S."><field name="i">IconNames.LeftTriangle</field><next><block type="basic_show_icon" id="p7P}!~Jp$umbCaF)WX|u"><field name="i">IconNames.Angry</field><next><block type="basic_show_icon" id="UNh$_cVvTMU,O-F4M?}u"><field name="i">IconNames.EigthNote</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="lZsie.3{A%T#~!t}1SH5" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="^ELEzBhVT_;6N54:9q5@"><value name="text"><shadow type="text" id="LQeUZK](Dtn((H/J`KzS"><field name="TEXT">OAO</field></shadow></value><next><block type="device_print_message" id="17;Iv3g%~!{;@`/S/KJB"><value name="text"><shadow type="text" id="v~Nu`V)=)v7MUixs$/?R"><field name="TEXT">QAQ</field></shadow></value></block></next></block></statement></block></xml>
